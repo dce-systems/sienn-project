@@ -1,0 +1,12 @@
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\bin\Debug\netstandard2.0\SIENN.Services.deps.json
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\bin\Debug\netstandard2.0\SIENN.Services.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\bin\Debug\netstandard2.0\SIENN.Services.pdb
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\bin\Debug\netstandard2.0\SIENN.DbAccess.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\bin\Debug\netstandard2.0\SIENN.DbAccess.pdb
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\obj\Debug\netstandard2.0\SIENN.Services.csprojAssemblyReference.cache
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\obj\Debug\netstandard2.0\SIENN.Services.csproj.CoreCompileInputs.cache
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\obj\Debug\netstandard2.0\SIENN.Services.AssemblyInfoInputs.cache
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\obj\Debug\netstandard2.0\SIENN.Services.AssemblyInfo.cs
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\obj\Debug\netstandard2.0\SIENN.Services.csproj.CopyComplete
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\obj\Debug\netstandard2.0\SIENN.Services.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.Services\obj\Debug\netstandard2.0\SIENN.Services.pdb

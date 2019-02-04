@@ -1,0 +1,9 @@
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\bin\Debug\netstandard2.0\SIENN.DbAccess.deps.json
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\bin\Debug\netstandard2.0\SIENN.DbAccess.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\bin\Debug\netstandard2.0\SIENN.DbAccess.pdb
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\obj\Debug\netstandard2.0\SIENN.DbAccess.csproj.CoreCompileInputs.cache
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\obj\Debug\netstandard2.0\SIENN.DbAccess.AssemblyInfoInputs.cache
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\obj\Debug\netstandard2.0\SIENN.DbAccess.AssemblyInfo.cs
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\obj\Debug\netstandard2.0\SIENN.DbAccess.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\obj\Debug\netstandard2.0\SIENN.DbAccess.pdb
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.DbAccess\obj\Debug\netstandard2.0\SIENN.DbAccess.csprojAssemblyReference.cache

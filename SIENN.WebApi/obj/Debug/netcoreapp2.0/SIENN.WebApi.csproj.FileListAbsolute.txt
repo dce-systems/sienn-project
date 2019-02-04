@@ -1,0 +1,16 @@
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.WebApi.deps.json
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.WebApi.runtimeconfig.json
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.WebApi.runtimeconfig.dev.json
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.WebApi.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.WebApi.pdb
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\obj\Debug\netcoreapp2.0\SIENN.WebApi.csprojAssemblyReference.cache
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\obj\Debug\netcoreapp2.0\SIENN.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\obj\Debug\netcoreapp2.0\SIENN.WebApi.AssemblyInfoInputs.cache
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\obj\Debug\netcoreapp2.0\SIENN.WebApi.AssemblyInfo.cs
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\obj\Debug\netcoreapp2.0\SIENN.WebApi.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\obj\Debug\netcoreapp2.0\SIENN.WebApi.pdb
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.DbAccess.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.DbAccess.pdb
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\obj\Debug\netcoreapp2.0\SIENN.WebApi.csproj.CopyComplete
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.Services.dll
+C:\Users\CI-COMPUTER Instal\Desktop\sienn\Core2Recruitment\SIENN.WebApi\bin\Debug\netcoreapp2.0\SIENN.Services.pdb
