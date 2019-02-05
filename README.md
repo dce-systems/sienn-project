@@ -1,5 +1,5 @@
 # sienn-project
-Test project for SIENN
+Example project API on ASP.NET Core MVC :)
 
 ENJOY :) !!!
 
