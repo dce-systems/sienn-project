@@ -1,5 +1,5 @@
 # sienn-project
-Example project API on ASP.NET Core MVC :)
+Example project API on ASP.NET Core MVC 2 :)
 
 ENJOY :) !!!
 
